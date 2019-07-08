@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uniben-server",
+  "private_key_id": "32b2d4c58eb4197d656a9a757f47b778dc33f708",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9epZoD1mnI7a+\nCT9MJpqDXW9PrrxBrzfeDpr2mU0CChxzIruz6yrsA8i1aHSyFhuPKE3/G7RzFczl\nrP3dkOlsezsWEClFgf/r4GOiUbFlMYXIvKzuovyPZ0uemWKKO0FOvePz/HyGgcVA\n42Hk7/vmIkI9+g7DF5U9HkWzQGpYSp6t89Gf09OCzUCgLSjOhHig369GjgOeoGJY\nT4Sw5D9NcoM9UsiCIdN/k8ituHFUGA2NPG0wmWld9a/YnE6654z3COmmvyaPjeph\nz/c4sB17SOcyYzA1uZkP8IUsG4Mu3DxUfh4XN4ExrwLbijJpk+Gp62CN8eUlB00z\nDr+lx3vVAgMBAAECggEAAmMY1OSunTdLHjx8SbYQMV8vUt2ePXI0hFQCrUbAphAt\n2OB85P2HOKdFwDO5vQpswsJMyA3XpkrsKvX7OJWfbzbjoQZ6mQeg5QSablYHo8Et\n0MBAKhbirJIHujUiyey8FaUffR7Dv3RDYZFYlbtu3PC2pqFWGsY0oqsiA/bBidOy\neu941X9fPjv3YddcsG+2lVPfDHB/zv6nfRPIHCFLtvaL8uyp3zVbB9lNhkwTxvVp\nV56EYoy97O50gSya+KsX6LRuOpxtIFmpyPwXl9pJCh//XDo9G+9csFQTmeJe2Zqf\nC6LqjtM7Rll8mxMYzN2BlDKlrQLYB7xBVNiGoKIBIQKBgQDnlgF47AGQ48jsOwjw\nKpPrQgXb/k2RmID+3FRfK9rYC6MGagndXjpeyDBKS9yZsS+GKlil/gZTM9aWR+kN\ntnp9Lagdkks04IjcEOYd0epLSiuWzu61IznJzFRAV2MJK8VvCDMWkFIP7eK2ta3Y\nw/apLFEoZYfAjgUMwD+huTGcIQKBgQDRdDQ2Y2vV0dEuLZCzjFPzcdcug4EvsE9U\nMEoXbIJj0AviIWZ33n0r0fc+sjm0ft4UYEBYSMgtIfUbUs81BrNMCBc5rDmcRQ92\ngw6ZGMy070MVcEa4YQfTNG2kcx93rdTyFYh4JJhsguQzio0vOiVSoJmXh4TfaB3v\nTkgoF2UJNQKBgQCJUX0WAnr7OtXMnUSzg8up18A5rhS4nEEA3gx5Uju1l1DXYNDw\nngrmYLWhmFH6IAIZ/8oIwxNlCnvXKFScePMwfn4M6s4FUI5WTv7j97CBbD1kctdA\nON7vNWVPsYFb0sSDDc2dN34xS9D+ncOzoJ8FuO12kp1oI84CvYv9jR5JgQKBgCX1\nXkUBDZjpdnRc851mcAxtdCbM1Eu1Mxs5ySOnmZXHLXAkx3Iv0xVu7tTg7c5FM7AT\npXWacxSi083I2x5sAXBlAviDuskURvIeXDXopaigt9KZz2c4xndDSB+GcYx5516c\nAmhrkWgQ7JRepqmJaxwnWM56U908/DfTQwZo/vmFAoGAe2bVbpEQrLsd1nyKUxDH\n7PDG3ezpxabHkgpnDQNJGAUkPGj6axCD4/X/rRnLQJRzYnuRz2VlhBx0BiJOcv0I\nX+foxA384pKpTylt3sA52DFDL382KFERZcAwn7pCchZ0Qgun+2JLLt/EZrdNSEoe\nV92r5RgcMy/CC8Ugs42RA1Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uniben-server@uniben-server.iam.gserviceaccount.com",
+  "client_id": "108772727254005151529",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uniben-server%40uniben-server.iam.gserviceaccount.com"
+}
